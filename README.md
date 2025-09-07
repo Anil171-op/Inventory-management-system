@@ -2,7 +2,7 @@
 
 A simple and efficient Inventory Management System built with modern web technologies. This project helps businesses and individuals manage their stock by providing features like adding, updating, deleting, and tracking inventory items.
 
-🔗 Live Demo: View App
+🔗 Live Demo: https://inventory-management-system-gamma-jade.vercel.app/
 
 🚀 Features
 
